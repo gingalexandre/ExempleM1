@@ -4,3 +4,5 @@ Deuxième ligne
 Troisième ligne
 On continue à écrire
 Des lignes
+Je commencer un bug fix
+
